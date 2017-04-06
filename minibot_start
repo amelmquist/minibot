@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo ~/code/minibot_prop_drive/jsreader
+
